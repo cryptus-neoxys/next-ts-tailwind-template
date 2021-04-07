@@ -13,11 +13,11 @@ export default function Home() {
           Welcome to{" "}
           <a className="text-blue-600" href="https://nextjs.org">
             Next.js with{" "}
-            <a href="https://fauna.com/" className="text-green-400">
+            <a href="https://tailwindcss.com/" className="text-green-400">
               Tailwind
             </a>{" "}
             &
-            <a href="" className="text-blue-500">
+            <a href="https://www.typescriptlang.org/" className="text-blue-500">
               {" "}
               TypeScript
             </a>
